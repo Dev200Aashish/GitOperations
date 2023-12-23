@@ -12,6 +12,7 @@ namespace VersionCtrl
         {
             Console.WriteLine("Edited From VS");
             Console.WriteLine("Aashish");
+            Console.WriteLine("Edited From Git");
         }
     }
 }
