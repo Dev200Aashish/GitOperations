@@ -1,0 +1,15 @@
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\bin\Debug\net6.0\VersionCtrl.exe
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\bin\Debug\net6.0\VersionCtrl.deps.json
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\bin\Debug\net6.0\VersionCtrl.runtimeconfig.json
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\bin\Debug\net6.0\VersionCtrl.dll
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\bin\Debug\net6.0\ref\VersionCtrl.dll
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\bin\Debug\net6.0\VersionCtrl.pdb
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\VersionCtrl.csproj.AssemblyReference.cache
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\VersionCtrl.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\VersionCtrl.AssemblyInfoInputs.cache
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\VersionCtrl.AssemblyInfo.cs
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\VersionCtrl.csproj.CoreCompileInputs.cache
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\VersionCtrl.dll
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\ref\VersionCtrl.dll
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\VersionCtrl.pdb
+D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\VersionCtrl.genruntimeconfig.cache
