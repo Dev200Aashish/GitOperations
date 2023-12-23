@@ -14,7 +14,7 @@ namespace VersionCtrl
             Console.WriteLine("Aashish");
             
             Console.WriteLine("Edit by me Phase 1");
-            Console.WriteLine("Phase 1 from git");
+            Console.WriteLine("Added by VS Phase 1 from git");
         }
     }
 }
