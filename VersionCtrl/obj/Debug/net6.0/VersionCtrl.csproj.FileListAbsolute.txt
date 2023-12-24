@@ -4,7 +4,6 @@ D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\bin\Debug\net6.0\VersionC
 D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\bin\Debug\net6.0\VersionCtrl.dll
 D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\bin\Debug\net6.0\ref\VersionCtrl.dll
 D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\bin\Debug\net6.0\VersionCtrl.pdb
-D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\VersionCtrl.csproj.AssemblyReference.cache
 D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\VersionCtrl.GeneratedMSBuildEditorConfig.editorconfig
 D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\VersionCtrl.AssemblyInfoInputs.cache
 D:\CodingBox\My_DotNet_Project\VersionCtrl\VersionCtrl\obj\Debug\net6.0\VersionCtrl.AssemblyInfo.cs
